@@ -21,5 +21,16 @@ body{
     box-shadow: 5px;
 }
 #contenido{
-
+    text-align: justify;
+    font-size: 16px;
+    font-family: "century gothic";
+}
+.estilo1{
+    font-size: 16px;
+    color:red;
+    padding-top: 20px;
+}
+.estilo2{
+    font-size: 14px;
+    padding-top: 20px;
 }
