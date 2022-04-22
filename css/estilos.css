@@ -11,12 +11,11 @@ body{
     border: 1px solid blue;
 }
 #titulo{
-    color: white;
+    color: yellow ;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 22px;
     padding: 10px;
     background-color: rgb(8, 8, 70);
-    color: white;
     border-radius: 20px;
     box-shadow: 5px;
 }
